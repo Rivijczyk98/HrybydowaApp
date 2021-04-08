@@ -9,5 +9,5 @@ Frontend - Angular 7+</p>
 <ul>
 <li>@BillCosbill</li>
 <li>@alicja5</li>
-<li>@VukoDyas</li>
+<li>@praglis</li>
 <li>@Rivijczyk98</li>
